@@ -1,0 +1,7 @@
+{
+  "name": "gromozeka",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "latest"
+  }
+}
